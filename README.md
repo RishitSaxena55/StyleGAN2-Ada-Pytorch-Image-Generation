@@ -10,7 +10,7 @@ Generated great images using StyleGAN2-Ada,  interpolation, truncation and proje
 ![](results/gen_results/collage2.png)
 
 ## Style-Mixing on Metfaces
-![](results/gen_results/collage3.png)
+![](results/gen_results/grid.png)
 
 ## Class conditional CIFAR-10 images
 ![](results/gen_results/collage4.png)
