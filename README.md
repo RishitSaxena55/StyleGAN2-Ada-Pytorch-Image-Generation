@@ -14,3 +14,7 @@ Generated great images using StyleGAN2-Ada,  interpolation, truncation and proje
 
 ## Class conditional CIFAR-10 images
 ![](results/gen_results/collage4.png)
+
+# Projection Results
+![](results/gen_results/tom_cruise1.png)
+![](results/gen_results/tom_cruise2.png)
